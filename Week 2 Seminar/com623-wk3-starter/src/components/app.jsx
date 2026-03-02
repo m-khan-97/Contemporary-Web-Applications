@@ -2,10 +2,12 @@ import React, { useState, useEffect }  from 'react';
 import Search from './search.jsx';
 import SearchResults from './searchresults.jsx';
 import Login from './login.jsx';
+import AddSong from './addsong.jsx';
 
 export default function App() {
    const [darkMode, setDarkMode] = useState(false);
    const [currentSongs, setCurrentSongs] = useState([]);
+   const [currentArtist, setCurrentArtist] = useState('')
    const [username, setUsername] = useState('');
 
     useEffect(() => {
@@ -32,6 +34,7 @@ export default function App() {
             <option value='light'>Light mode</option>
             <option value='dark'>Dark mode</option>
             </select>
+            <AddSong username={username} onSongAdded={handleSongAdded} />
             <SearchResults songsArray={currentSongs} foreground={foreground} />
 			</div>;
 
@@ -47,6 +50,12 @@ export default function App() {
 
     function handleLogout() {
         setUsername('')
+    }
+
+    function handleSongAdded(){
+        if(currentArtist) {
+            searchCallback(currentArtist)
+        }
     }
 
     async function searchCallback() {
