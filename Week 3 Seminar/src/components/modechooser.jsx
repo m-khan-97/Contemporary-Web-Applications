@@ -1,8 +1,13 @@
 
-import { useState } from 'react';
+import { useContext, useState } from 'react';
+import ModeContext from '../contexts/ModeContext';
 
-export default function ModeChooser({darkMode, modeUpdated}) {
+export default function ModeChooser() {
+    const {darkMode, setDarkMode} = useContext(ModeContext);
 
+    function updateMode(e) {
+        setDarkMode(e.target.value === 'dark')
+    }
 
     return <div>
     <label htmlFor='mode'>Choose mode:</label>
@@ -11,10 +16,5 @@ export default function ModeChooser({darkMode, modeUpdated}) {
     <option value='dark'>Dark mode</option>
     </select>
     </div>;
-
-    function updateMode() {
-        const mode = document.getElementById('mode').value;
-        modeUpdated(mode);
-    }
     
 }

@@ -1,0 +1,14 @@
+{
+  "name": "vite-ssr-demo",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.21.2",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "vite": "^5.4.14"
+  }
+}

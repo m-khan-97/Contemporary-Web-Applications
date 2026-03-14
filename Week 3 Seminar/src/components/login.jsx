@@ -1,7 +1,9 @@
-import React, { useState, Fragment } from 'react';
+import React, { useState, Fragment, useContext } from 'react';
+import ModeContext from '../contexts/ModeContext';
 
-export default function Login({onLoginStatusChange, user, admin, darkMode}) {
+export default function Login({onLoginStatusChange, user, admin}) {
 
+    const {darkMode} = useContext(ModeContext)
     const [loginError, setLoginError] = useState("");
     const content = user ?
         <Fragment>Logged in as {user}. { admin ? "(Admin user)" : "" }

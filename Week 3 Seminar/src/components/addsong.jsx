@@ -1,5 +1,8 @@
+import { Link } from "react-router-dom";
+
 export default function AddSong() {
     return <div>
+        <Link to="/">Home</Link>
         <h2>Add Song</h2>
         <label htmlFor="title">Title:</label><br /> 
         <input id="title" /><br />
