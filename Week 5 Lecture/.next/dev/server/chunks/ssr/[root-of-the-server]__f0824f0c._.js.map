@@ -1,0 +1,6 @@
+{
+  "version": 3,
+  "sources": [],
+  "sections": [
+    {"offset": {"line": 14, "column": 0}, "map": {"version":3,"sources":["file:///C:/Users/Bahadur%20Ali/Desktop/CWA%20Feb%202026/Week%205%20Lecture/app/page.jsx"],"sourcesContent":["export default function Page() {\r\n    return (\r\n        <main>\r\n            <h1>Welcome to Hittastic Next.Js</h1>\r\n            <p>This is the home page</p>\r\n            <p>This page is inside the <strong>App</strong> folder, so it becomes the route</p>\r\n        </main>\r\n    )\r\n}"],"names":[],"mappings":";;;;;;AAAe,SAAS;IACpB,qBACI,+RAAC;;0BACG,+RAAC;0BAAG;;;;;;0BACJ,+RAAC;0BAAE;;;;;;0BACH,+RAAC;;oBAAE;kCAAwB,+RAAC;kCAAO;;;;;;oBAAY;;;;;;;;;;;;;AAG3D"}}]
+}

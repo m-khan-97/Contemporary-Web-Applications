@@ -1,0 +1,51 @@
+globalThis.__BUILD_MANIFEST = {
+  "pages": {
+    "/_app": [
+      "static/chunks/243ab_next_dist_compiled_6d25d73f._.js",
+      "static/chunks/243ab_next_dist_shared_lib_38af327c._.js",
+      "static/chunks/243ab_next_dist_client_2702aa26._.js",
+      "static/chunks/243ab_next_dist_040db90a._.js",
+      "static/chunks/243ab_next_app_88afe5e4.js",
+      "static/chunks/[next]_entry_page-loader_ts_23e0d621._.js",
+      "static/chunks/243ab_react-dom_52039097._.js",
+      "static/chunks/243ab_e22f3302._.js",
+      "static/chunks/[root-of-the-server]__2cdfabad._.js",
+      "static/chunks/Desktop_CWA Feb 2026_Week 5 Lecture_pages__app_2da965e7._.js",
+      "static/chunks/turbopack-Desktop_CWA Feb 2026_Week 5 Lecture_pages__app_aa8a4474._.js"
+    ],
+    "/_error": [
+      "static/chunks/243ab_next_dist_compiled_6d25d73f._.js",
+      "static/chunks/243ab_next_dist_shared_lib_26c6af18._.js",
+      "static/chunks/243ab_next_dist_client_2702aa26._.js",
+      "static/chunks/243ab_next_dist_89731b54._.js",
+      "static/chunks/243ab_next_error_a8af35f6.js",
+      "static/chunks/[next]_entry_page-loader_ts_dc28d706._.js",
+      "static/chunks/243ab_react-dom_52039097._.js",
+      "static/chunks/243ab_e22f3302._.js",
+      "static/chunks/[root-of-the-server]__2580ce88._.js",
+      "static/chunks/Desktop_CWA Feb 2026_Week 5 Lecture_pages__error_2da965e7._.js",
+      "static/chunks/turbopack-Desktop_CWA Feb 2026_Week 5 Lecture_pages__error_4ee478d2._.js"
+    ]
+  },
+  "devFiles": [],
+  "polyfillFiles": [
+    "static/chunks/243ab_next_dist_build_polyfills_polyfill-nomodule.js"
+  ],
+  "lowPriorityFiles": [],
+  "rootMainFiles": [
+    "static/chunks/[turbopack]_browser_dev_hmr-client_hmr-client_ts_deeede42._.js",
+    "static/chunks/243ab_next_dist_compiled_react-dom_872383b7._.js",
+    "static/chunks/243ab_next_dist_compiled_react-server-dom-turbopack_62bb4f94._.js",
+    "static/chunks/243ab_next_dist_compiled_next-devtools_index_7dcd2f65.js",
+    "static/chunks/243ab_next_dist_compiled_99f9c231._.js",
+    "static/chunks/243ab_next_dist_client_d72e90e7._.js",
+    "static/chunks/243ab_next_dist_4394f5c6._.js",
+    "static/chunks/243ab_@swc_helpers_cjs_01383077._.js",
+    "static/chunks/Desktop_CWA Feb 2026_Week 5 Lecture_a0ff3932._.js",
+    "static/chunks/turbopack-Desktop_CWA Feb 2026_Week 5 Lecture_c6b9c767._.js"
+  ]
+};
+globalThis.__BUILD_MANIFEST.lowPriorityFiles = [
+"/static/" + process.env.__NEXT_BUILD_ID + "/_buildManifest.js",
+"/static/" + process.env.__NEXT_BUILD_ID + "/_ssgManifest.js"
+];

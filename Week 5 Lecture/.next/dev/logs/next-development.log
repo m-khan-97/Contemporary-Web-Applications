@@ -1,0 +1,692 @@
+[00:00:06.126] Server  LOG     ✓ Ready in 4.2s
+[00:00:16.417] Server  LOG     ○ Compiling / ...
+[00:00:20.807] Server  ERROR   ⨯ ./Desktop/CWA Feb 2026/Week 5 Lecture/app/layout.jsx
+Specified module format (CommonJs) is not matching the module format of the source code (EcmaScript Modules)
+The CommonJs module format was specified in the package.json that is affecting this source file or by using an special extension, but Ecmascript import/export syntax is used in the source code.
+The module was automatically converted to an EcmaScript module, but that is in conflict with the specified module format. Either change the "type" field in the package.json or replace EcmaScript import/export syntax with CommonJs syntas in the source file.
+In some cases EcmaScript import/export syntax is added by an transform and isn't actually part of the source code. In these cases revisit transformation options to inject the correct syntax.
+
+
+
+./Desktop/CWA Feb 2026/Week 5 Lecture/app/page.jsx
+Specified module format (CommonJs) is not matching the module format of the source code (EcmaScript Modules)
+The CommonJs module format was specified in the package.json that is affecting this source file or by using an special extension, but Ecmascript import/export syntax is used in the source code.
+The module was automatically converted to an EcmaScript module, but that is in conflict with the specified module format. Either change the "type" field in the package.json or replace EcmaScript import/export syntax with CommonJs syntas in the source file.
+In some cases EcmaScript import/export syntax is added by an transform and isn't actually part of the source code. In these cases revisit transformation options to inject the correct syntax.
+
+
+
+./Desktop/CWA Feb 2026/Week 5 Lecture/components/NavBar.jsx
+Specified module format (CommonJs) is not matching the module format of the source code (EcmaScript Modules)
+The CommonJs module format was specified in the package.json that is affecting this source file or by using an special extension, but Ecmascript import/export syntax is used in the source code.
+The module was automatically converted to an EcmaScript module, but that is in conflict with the specified module format. Either change the "type" field in the package.json or replace EcmaScript import/export syntax with CommonJs syntas in the source file.
+In some cases EcmaScript import/export syntax is added by an transform and isn't actually part of the source code. In these cases revisit transformation options to inject the correct syntax.
+
+Import trace:
+  Server Component:
+    ./Desktop/CWA Feb 2026/Week 5 Lecture/components/NavBar.jsx
+    ./Desktop/CWA Feb 2026/Week 5 Lecture/app/layout.jsx
+
+
+[00:00:23.852] Server  LOG     ○ Compiling /_error ...
+[00:00:28.691] Browser ERROR   uncaughtError: Error: ./Desktop/CWA Feb 2026/Week 5 Lecture/app/layout.jsx
+Specified module format (CommonJs) is not matching the module format of the source code (EcmaScript Modules)
+The CommonJs module format was specified in the package.json that is affecting this source file or by using an special extension, but Ecmascript import/export syntax is used in the source code.
+The module was automatically converted to an EcmaScript module, but that is in conflict with the specified module format. Either change the "type" field in the package.json or replace EcmaScript import/export syntax with CommonJs syntas in the source file.
+In some cases EcmaScript import/export syntax is added by an transform and isn't actually part of the source code. In these cases revisit transformation options to inject the correct syntax.
+
+
+[00:00:29.961] Browser ERROR   ./Desktop/CWA Feb 2026/Week 5 Lecture/app/layout.jsx
+Specified module format (CommonJs) is not matching the module format of the source code (EcmaScript Modules)
+The CommonJs module format was specified in the package.json that is affecting this source file or by using an special extension, but Ecmascript import/export syntax is used in the source code.
+The module was automatically converted to an EcmaScript module, but that is in conflict with the specified module format. Either change the "type" field in the package.json or replace EcmaScript import/export syntax with CommonJs syntas in the source file.
+In some cases EcmaScript import/export syntax is added by an transform and isn't actually part of the source code. In these cases revisit transformation options to inject the correct syntax.
+[00:00:29.961] Browser ERROR   ./Desktop/CWA Feb 2026/Week 5 Lecture/app/page.jsx
+Specified module format (CommonJs) is not matching the module format of the source code (EcmaScript Modules)
+The CommonJs module format was specified in the package.json that is affecting this source file or by using an special extension, but Ecmascript import/export syntax is used in the source code.
+The module was automatically converted to an EcmaScript module, but that is in conflict with the specified module format. Either change the "type" field in the package.json or replace EcmaScript import/export syntax with CommonJs syntas in the source file.
+In some cases EcmaScript import/export syntax is added by an transform and isn't actually part of the source code. In these cases revisit transformation options to inject the correct syntax.
+[00:00:29.961] Browser ERROR   ./Desktop/CWA Feb 2026/Week 5 Lecture/components/NavBar.jsx
+Specified module format (CommonJs) is not matching the module format of the source code (EcmaScript Modules)
+The CommonJs module format was specified in the package.json that is affecting this source file or by using an special extension, but Ecmascript import/export syntax is used in the source code.
+The module was automatically converted to an EcmaScript module, but that is in conflict with the specified module format. Either change the "type" field in the package.json or replace EcmaScript import/export syntax with CommonJs syntas in the source file.
+In some cases EcmaScript import/export syntax is added by an transform and isn't actually part of the source code. In these cases revisit transformation options to inject the correct syntax.
+
+Import trace:
+  Server Component:
+    ./Desktop/CWA Feb 2026/Week 5 Lecture/components/NavBar.jsx
+    ./Desktop/CWA Feb 2026/Week 5 Lecture/app/layout.jsx
+[00:00:30.533] Browser ERROR   ./Desktop/CWA Feb 2026/Week 5 Lecture/app/layout.jsx
+Specified module format (CommonJs) is not matching the module format of the source code (EcmaScript Modules)
+The CommonJs module format was specified in the package.json that is affecting this source file or by using an special extension, but Ecmascript import/export syntax is used in the source code.
+The module was automatically converted to an EcmaScript module, but that is in conflict with the specified module format. Either change the "type" field in the package.json or replace EcmaScript import/export syntax with CommonJs syntas in the source file.
+In some cases EcmaScript import/export syntax is added by an transform and isn't actually part of the source code. In these cases revisit transformation options to inject the correct syntax.
+[00:00:30.534] Browser ERROR   ./Desktop/CWA Feb 2026/Week 5 Lecture/app/page.jsx
+Specified module format (CommonJs) is not matching the module format of the source code (EcmaScript Modules)
+The CommonJs module format was specified in the package.json that is affecting this source file or by using an special extension, but Ecmascript import/export syntax is used in the source code.
+The module was automatically converted to an EcmaScript module, but that is in conflict with the specified module format. Either change the "type" field in the package.json or replace EcmaScript import/export syntax with CommonJs syntas in the source file.
+In some cases EcmaScript import/export syntax is added by an transform and isn't actually part of the source code. In these cases revisit transformation options to inject the correct syntax.
+[00:00:30.534] Browser ERROR   ./Desktop/CWA Feb 2026/Week 5 Lecture/components/NavBar.jsx
+Specified module format (CommonJs) is not matching the module format of the source code (EcmaScript Modules)
+The CommonJs module format was specified in the package.json that is affecting this source file or by using an special extension, but Ecmascript import/export syntax is used in the source code.
+The module was automatically converted to an EcmaScript module, but that is in conflict with the specified module format. Either change the "type" field in the package.json or replace EcmaScript import/export syntax with CommonJs syntas in the source file.
+In some cases EcmaScript import/export syntax is added by an transform and isn't actually part of the source code. In these cases revisit transformation options to inject the correct syntax.
+
+Import trace:
+  Server Component:
+    ./Desktop/CWA Feb 2026/Week 5 Lecture/components/NavBar.jsx
+    ./Desktop/CWA Feb 2026/Week 5 Lecture/app/layout.jsx
+[00:00:37.257] Browser ERROR   unhandledRejection: i: Failed to connect to MetaMask
+[00:00:39.355] Server  LOG     ✓ Finished writing to filesystem cache in 12.3s
+[00:00:55.169] Browser ERROR   ./Desktop/CWA Feb 2026/Week 5 Lecture/app/layout.js
+Specified module format (CommonJs) is not matching the module format of the source code (EcmaScript Modules)
+The CommonJs module format was specified in the package.json that is affecting this source file or by using an special extension, but Ecmascript import/export syntax is used in the source code.
+The module was automatically converted to an EcmaScript module, but that is in conflict with the specified module format. Either change the "type" field in the package.json or replace EcmaScript import/export syntax with CommonJs syntas in the source file.
+In some cases EcmaScript import/export syntax is added by an transform and isn't actually part of the source code. In these cases revisit transformation options to inject the correct syntax.
+[00:00:55.169] Browser ERROR   ./Desktop/CWA Feb 2026/Week 5 Lecture/app/page.jsx
+Specified module format (CommonJs) is not matching the module format of the source code (EcmaScript Modules)
+The CommonJs module format was specified in the package.json that is affecting this source file or by using an special extension, but Ecmascript import/export syntax is used in the source code.
+The module was automatically converted to an EcmaScript module, but that is in conflict with the specified module format. Either change the "type" field in the package.json or replace EcmaScript import/export syntax with CommonJs syntas in the source file.
+In some cases EcmaScript import/export syntax is added by an transform and isn't actually part of the source code. In these cases revisit transformation options to inject the correct syntax.
+[00:00:55.169] Browser ERROR   ./Desktop/CWA Feb 2026/Week 5 Lecture/components/NavBar.jsx
+Specified module format (CommonJs) is not matching the module format of the source code (EcmaScript Modules)
+The CommonJs module format was specified in the package.json that is affecting this source file or by using an special extension, but Ecmascript import/export syntax is used in the source code.
+The module was automatically converted to an EcmaScript module, but that is in conflict with the specified module format. Either change the "type" field in the package.json or replace EcmaScript import/export syntax with CommonJs syntas in the source file.
+In some cases EcmaScript import/export syntax is added by an transform and isn't actually part of the source code. In these cases revisit transformation options to inject the correct syntax.
+
+Import trace:
+  Server Component:
+    ./Desktop/CWA Feb 2026/Week 5 Lecture/components/NavBar.jsx
+    ./Desktop/CWA Feb 2026/Week 5 Lecture/app/layout.js
+[00:00:58.119] Server  ERROR   ⨯ ./Desktop/CWA Feb 2026/Week 5 Lecture/app/layout.js
+Specified module format (CommonJs) is not matching the module format of the source code (EcmaScript Modules)
+The CommonJs module format was specified in the package.json that is affecting this source file or by using an special extension, but Ecmascript import/export syntax is used in the source code.
+The module was automatically converted to an EcmaScript module, but that is in conflict with the specified module format. Either change the "type" field in the package.json or replace EcmaScript import/export syntax with CommonJs syntas in the source file.
+In some cases EcmaScript import/export syntax is added by an transform and isn't actually part of the source code. In these cases revisit transformation options to inject the correct syntax.
+
+
+
+./Desktop/CWA Feb 2026/Week 5 Lecture/app/page.jsx
+Specified module format (CommonJs) is not matching the module format of the source code (EcmaScript Modules)
+The CommonJs module format was specified in the package.json that is affecting this source file or by using an special extension, but Ecmascript import/export syntax is used in the source code.
+The module was automatically converted to an EcmaScript module, but that is in conflict with the specified module format. Either change the "type" field in the package.json or replace EcmaScript import/export syntax with CommonJs syntas in the source file.
+In some cases EcmaScript import/export syntax is added by an transform and isn't actually part of the source code. In these cases revisit transformation options to inject the correct syntax.
+
+
+
+./Desktop/CWA Feb 2026/Week 5 Lecture/components/NavBar.jsx
+Specified module format (CommonJs) is not matching the module format of the source code (EcmaScript Modules)
+The CommonJs module format was specified in the package.json that is affecting this source file or by using an special extension, but Ecmascript import/export syntax is used in the source code.
+The module was automatically converted to an EcmaScript module, but that is in conflict with the specified module format. Either change the "type" field in the package.json or replace EcmaScript import/export syntax with CommonJs syntas in the source file.
+In some cases EcmaScript import/export syntax is added by an transform and isn't actually part of the source code. In these cases revisit transformation options to inject the correct syntax.
+
+Import trace:
+  Server Component:
+    ./Desktop/CWA Feb 2026/Week 5 Lecture/components/NavBar.jsx
+    ./Desktop/CWA Feb 2026/Week 5 Lecture/app/layout.js
+
+
+[00:00:58.233] Browser ERROR   ./Desktop/CWA Feb 2026/Week 5 Lecture/app/layout.js
+Specified module format (CommonJs) is not matching the module format of the source code (EcmaScript Modules)
+The CommonJs module format was specified in the package.json that is affecting this source file or by using an special extension, but Ecmascript import/export syntax is used in the source code.
+The module was automatically converted to an EcmaScript module, but that is in conflict with the specified module format. Either change the "type" field in the package.json or replace EcmaScript import/export syntax with CommonJs syntas in the source file.
+In some cases EcmaScript import/export syntax is added by an transform and isn't actually part of the source code. In these cases revisit transformation options to inject the correct syntax.
+[00:00:58.233] Browser ERROR   ./Desktop/CWA Feb 2026/Week 5 Lecture/app/page.jsx
+Specified module format (CommonJs) is not matching the module format of the source code (EcmaScript Modules)
+The CommonJs module format was specified in the package.json that is affecting this source file or by using an special extension, but Ecmascript import/export syntax is used in the source code.
+The module was automatically converted to an EcmaScript module, but that is in conflict with the specified module format. Either change the "type" field in the package.json or replace EcmaScript import/export syntax with CommonJs syntas in the source file.
+In some cases EcmaScript import/export syntax is added by an transform and isn't actually part of the source code. In these cases revisit transformation options to inject the correct syntax.
+[00:00:58.233] Browser ERROR   ./Desktop/CWA Feb 2026/Week 5 Lecture/components/NavBar.jsx
+Specified module format (CommonJs) is not matching the module format of the source code (EcmaScript Modules)
+The CommonJs module format was specified in the package.json that is affecting this source file or by using an special extension, but Ecmascript import/export syntax is used in the source code.
+The module was automatically converted to an EcmaScript module, but that is in conflict with the specified module format. Either change the "type" field in the package.json or replace EcmaScript import/export syntax with CommonJs syntas in the source file.
+In some cases EcmaScript import/export syntax is added by an transform and isn't actually part of the source code. In these cases revisit transformation options to inject the correct syntax.
+
+Import trace:
+  Server Component:
+    ./Desktop/CWA Feb 2026/Week 5 Lecture/components/NavBar.jsx
+    ./Desktop/CWA Feb 2026/Week 5 Lecture/app/layout.js
+[00:00:59.104] Browser ERROR   uncaughtError: Error: ./Desktop/CWA Feb 2026/Week 5 Lecture/app/layout.js
+Specified module format (CommonJs) is not matching the module format of the source code (EcmaScript Modules)
+The CommonJs module format was specified in the package.json that is affecting this source file or by using an special extension, but Ecmascript import/export syntax is used in the source code.
+The module was automatically converted to an EcmaScript module, but that is in conflict with the specified module format. Either change the "type" field in the package.json or replace EcmaScript import/export syntax with CommonJs syntas in the source file.
+In some cases EcmaScript import/export syntax is added by an transform and isn't actually part of the source code. In these cases revisit transformation options to inject the correct syntax.
+
+
+[00:00:59.287] Browser ERROR   ./Desktop/CWA Feb 2026/Week 5 Lecture/app/layout.js
+Specified module format (CommonJs) is not matching the module format of the source code (EcmaScript Modules)
+The CommonJs module format was specified in the package.json that is affecting this source file or by using an special extension, but Ecmascript import/export syntax is used in the source code.
+The module was automatically converted to an EcmaScript module, but that is in conflict with the specified module format. Either change the "type" field in the package.json or replace EcmaScript import/export syntax with CommonJs syntas in the source file.
+In some cases EcmaScript import/export syntax is added by an transform and isn't actually part of the source code. In these cases revisit transformation options to inject the correct syntax.
+[00:00:59.288] Browser ERROR   ./Desktop/CWA Feb 2026/Week 5 Lecture/app/page.jsx
+Specified module format (CommonJs) is not matching the module format of the source code (EcmaScript Modules)
+The CommonJs module format was specified in the package.json that is affecting this source file or by using an special extension, but Ecmascript import/export syntax is used in the source code.
+The module was automatically converted to an EcmaScript module, but that is in conflict with the specified module format. Either change the "type" field in the package.json or replace EcmaScript import/export syntax with CommonJs syntas in the source file.
+In some cases EcmaScript import/export syntax is added by an transform and isn't actually part of the source code. In these cases revisit transformation options to inject the correct syntax.
+[00:00:59.288] Browser ERROR   ./Desktop/CWA Feb 2026/Week 5 Lecture/components/NavBar.jsx
+Specified module format (CommonJs) is not matching the module format of the source code (EcmaScript Modules)
+The CommonJs module format was specified in the package.json that is affecting this source file or by using an special extension, but Ecmascript import/export syntax is used in the source code.
+The module was automatically converted to an EcmaScript module, but that is in conflict with the specified module format. Either change the "type" field in the package.json or replace EcmaScript import/export syntax with CommonJs syntas in the source file.
+In some cases EcmaScript import/export syntax is added by an transform and isn't actually part of the source code. In these cases revisit transformation options to inject the correct syntax.
+
+Import trace:
+  Server Component:
+    ./Desktop/CWA Feb 2026/Week 5 Lecture/components/NavBar.jsx
+    ./Desktop/CWA Feb 2026/Week 5 Lecture/app/layout.js
+[00:00:59.410] Browser ERROR   ./Desktop/CWA Feb 2026/Week 5 Lecture/app/layout.js
+Specified module format (CommonJs) is not matching the module format of the source code (EcmaScript Modules)
+The CommonJs module format was specified in the package.json that is affecting this source file or by using an special extension, but Ecmascript import/export syntax is used in the source code.
+The module was automatically converted to an EcmaScript module, but that is in conflict with the specified module format. Either change the "type" field in the package.json or replace EcmaScript import/export syntax with CommonJs syntas in the source file.
+In some cases EcmaScript import/export syntax is added by an transform and isn't actually part of the source code. In these cases revisit transformation options to inject the correct syntax.
+[00:00:59.411] Browser ERROR   ./Desktop/CWA Feb 2026/Week 5 Lecture/app/page.jsx
+Specified module format (CommonJs) is not matching the module format of the source code (EcmaScript Modules)
+The CommonJs module format was specified in the package.json that is affecting this source file or by using an special extension, but Ecmascript import/export syntax is used in the source code.
+The module was automatically converted to an EcmaScript module, but that is in conflict with the specified module format. Either change the "type" field in the package.json or replace EcmaScript import/export syntax with CommonJs syntas in the source file.
+In some cases EcmaScript import/export syntax is added by an transform and isn't actually part of the source code. In these cases revisit transformation options to inject the correct syntax.
+[00:00:59.411] Browser ERROR   ./Desktop/CWA Feb 2026/Week 5 Lecture/components/NavBar.jsx
+Specified module format (CommonJs) is not matching the module format of the source code (EcmaScript Modules)
+The CommonJs module format was specified in the package.json that is affecting this source file or by using an special extension, but Ecmascript import/export syntax is used in the source code.
+The module was automatically converted to an EcmaScript module, but that is in conflict with the specified module format. Either change the "type" field in the package.json or replace EcmaScript import/export syntax with CommonJs syntas in the source file.
+In some cases EcmaScript import/export syntax is added by an transform and isn't actually part of the source code. In these cases revisit transformation options to inject the correct syntax.
+
+Import trace:
+  Server Component:
+    ./Desktop/CWA Feb 2026/Week 5 Lecture/components/NavBar.jsx
+    ./Desktop/CWA Feb 2026/Week 5 Lecture/app/layout.js
+[00:01:08.642] Browser ERROR   unhandledRejection: i: Failed to connect to MetaMask
+[00:02:50.456] Browser ERROR   ./Desktop/CWA Feb 2026/Week 5 Lecture/app/layout.js
+Specified module format (CommonJs) is not matching the module format of the source code (EcmaScript Modules)
+The CommonJs module format was specified in the package.json that is affecting this source file or by using an special extension, but Ecmascript import/export syntax is used in the source code.
+The module was automatically converted to an EcmaScript module, but that is in conflict with the specified module format. Either change the "type" field in the package.json or replace EcmaScript import/export syntax with CommonJs syntas in the source file.
+In some cases EcmaScript import/export syntax is added by an transform and isn't actually part of the source code. In these cases revisit transformation options to inject the correct syntax.
+[00:02:50.456] Browser ERROR   ./Desktop/CWA Feb 2026/Week 5 Lecture/app/page.jsx
+Specified module format (CommonJs) is not matching the module format of the source code (EcmaScript Modules)
+The CommonJs module format was specified in the package.json that is affecting this source file or by using an special extension, but Ecmascript import/export syntax is used in the source code.
+The module was automatically converted to an EcmaScript module, but that is in conflict with the specified module format. Either change the "type" field in the package.json or replace EcmaScript import/export syntax with CommonJs syntas in the source file.
+In some cases EcmaScript import/export syntax is added by an transform and isn't actually part of the source code. In these cases revisit transformation options to inject the correct syntax.
+[00:02:50.456] Browser ERROR   ./Desktop/CWA Feb 2026/Week 5 Lecture/components/NavBar.jsx
+Specified module format (CommonJs) is not matching the module format of the source code (EcmaScript Modules)
+The CommonJs module format was specified in the package.json that is affecting this source file or by using an special extension, but Ecmascript import/export syntax is used in the source code.
+The module was automatically converted to an EcmaScript module, but that is in conflict with the specified module format. Either change the "type" field in the package.json or replace EcmaScript import/export syntax with CommonJs syntas in the source file.
+In some cases EcmaScript import/export syntax is added by an transform and isn't actually part of the source code. In these cases revisit transformation options to inject the correct syntax.
+
+Import trace:
+  Server Component:
+    ./Desktop/CWA Feb 2026/Week 5 Lecture/components/NavBar.jsx
+    ./Desktop/CWA Feb 2026/Week 5 Lecture/app/layout.js
+[00:02:52.029] Server  ERROR   ⨯ ./Desktop/CWA Feb 2026/Week 5 Lecture/package.json:7:3
+Error parsing package.json file
+   5 |   "main": "index.js",
+   6 |   ""
+>  7 |   "scripts": {
+     |   ^
+   8 |     "dev": "next dev",
+   9 |     "build": "next build",
+  10 |     "start": "next start",
+
+package.json is not parseable: invalid JSON: expected `:` at line 7 column 3
+
+
+[00:02:52.698] Browser ERROR   uncaughtError: Error: ./Desktop/CWA Feb 2026/Week 5 Lecture/package.json:7:3
+Error parsing package.json file
+   5 |   "main": "index.js",
+   6 |   ""
+>  7 |   "scripts": {
+     |   ^
+   8 |     "dev": "next dev",
+   9 |     "build": "next build",
+  10 |     "start": "next start",
+
+package.json is not parseable: invalid JSON: expected `:` at line 7 column 3
+
+
+[00:02:53.878] Browser ERROR   ./Desktop/CWA Feb 2026/Week 5 Lecture/package.json:7:3
+Error parsing package.json file
+   5 |   "main": "index.js",
+   6 |   ""
+>  7 |   "scripts": {
+     |   ^
+   8 |     "dev": "next dev",
+   9 |     "build": "next build",
+  10 |     "start": "next start",
+
+package.json is not parseable: invalid JSON: expected `:` at line 7 column 3
+[00:02:53.878] Browser ERROR   ./Desktop/CWA Feb 2026/Week 5 Lecture/package.json:7:3
+Error parsing package.json file
+   5 |   "main": "index.js",
+   6 |   ""
+>  7 |   "scripts": {
+     |   ^
+   8 |     "dev": "next dev",
+   9 |     "build": "next build",
+  10 |     "start": "next start",
+
+package.json is not parseable: invalid JSON: expected `:` at line 7 column 3
+[00:02:53.878] Browser ERROR   ./Desktop/CWA Feb 2026/Week 5 Lecture/package.json:7:3
+Error parsing package.json file
+   5 |   "main": "index.js",
+   6 |   ""
+>  7 |   "scripts": {
+     |   ^
+   8 |     "dev": "next dev",
+   9 |     "build": "next build",
+  10 |     "start": "next start",
+
+package.json is not parseable: invalid JSON: expected `:` at line 7 column 3
+[00:02:53.878] Browser ERROR   ./Desktop/CWA Feb 2026/Week 5 Lecture/package.json:7:3
+Error parsing package.json file
+   5 |   "main": "index.js",
+   6 |   ""
+>  7 |   "scripts": {
+     |   ^
+   8 |     "dev": "next dev",
+   9 |     "build": "next build",
+  10 |     "start": "next start",
+
+package.json is not parseable: invalid JSON: expected `:` at line 7 column 3
+[00:02:53.878] Browser ERROR   ./Desktop/CWA Feb 2026/Week 5 Lecture/package.json:7:3
+Error parsing package.json file
+   5 |   "main": "index.js",
+   6 |   ""
+>  7 |   "scripts": {
+     |   ^
+   8 |     "dev": "next dev",
+   9 |     "build": "next build",
+  10 |     "start": "next start",
+
+package.json is not parseable: invalid JSON: expected `:` at line 7 column 3
+[00:02:53.988] Server  ERROR   ⨯ ./Desktop/CWA Feb 2026/Week 5 Lecture/package.json:7:3
+Error parsing package.json file
+   5 |   "main": "index.js",
+   6 |   "ty"
+>  7 |   "scripts": {
+     |   ^
+   8 |     "dev": "next dev",
+   9 |     "build": "next build",
+  10 |     "start": "next start",
+
+package.json is not parseable: invalid JSON: expected `:` at line 7 column 3
+
+
+[00:02:54.850] Browser ERROR   uncaughtError: Error: ./Desktop/CWA Feb 2026/Week 5 Lecture/package.json:7:3
+Error parsing package.json file
+   5 |   "main": "index.js",
+   6 |   "ty"
+>  7 |   "scripts": {
+     |   ^
+   8 |     "dev": "next dev",
+   9 |     "build": "next build",
+  10 |     "start": "next start",
+
+package.json is not parseable: invalid JSON: expected `:` at line 7 column 3
+
+
+[00:02:55.479] Browser ERROR   ./Desktop/CWA Feb 2026/Week 5 Lecture/package.json:7:3
+Error parsing package.json file
+   5 |   "main": "index.js",
+   6 |   "type"
+>  7 |   "scripts": {
+     |   ^
+   8 |     "dev": "next dev",
+   9 |     "build": "next build",
+  10 |     "start": "next start",
+
+package.json is not parseable: invalid JSON: expected `:` at line 7 column 3
+[00:02:55.479] Browser ERROR   ./Desktop/CWA Feb 2026/Week 5 Lecture/package.json:7:3
+Error parsing package.json file
+   5 |   "main": "index.js",
+   6 |   "ty"
+>  7 |   "scripts": {
+     |   ^
+   8 |     "dev": "next dev",
+   9 |     "build": "next build",
+  10 |     "start": "next start",
+
+package.json is not parseable: invalid JSON: expected `:` at line 7 column 3
+[00:02:55.479] Browser ERROR   ./Desktop/CWA Feb 2026/Week 5 Lecture/package.json:7:3
+Error parsing package.json file
+   5 |   "main": "index.js",
+   6 |   "ty"
+>  7 |   "scripts": {
+     |   ^
+   8 |     "dev": "next dev",
+   9 |     "build": "next build",
+  10 |     "start": "next start",
+
+package.json is not parseable: invalid JSON: expected `:` at line 7 column 3
+[00:02:55.479] Browser ERROR   ./Desktop/CWA Feb 2026/Week 5 Lecture/package.json:7:3
+Error parsing package.json file
+   5 |   "main": "index.js",
+   6 |   "ty"
+>  7 |   "scripts": {
+     |   ^
+   8 |     "dev": "next dev",
+   9 |     "build": "next build",
+  10 |     "start": "next start",
+
+package.json is not parseable: invalid JSON: expected `:` at line 7 column 3
+[00:02:55.479] Browser ERROR   ./Desktop/CWA Feb 2026/Week 5 Lecture/package.json:7:3
+Error parsing package.json file
+   5 |   "main": "index.js",
+   6 |   "type"
+>  7 |   "scripts": {
+     |   ^
+   8 |     "dev": "next dev",
+   9 |     "build": "next build",
+  10 |     "start": "next start",
+
+package.json is not parseable: invalid JSON: expected `:` at line 7 column 3
+[00:02:57.515] Server  ERROR   ⨯ ./Desktop/CWA Feb 2026/Week 5 Lecture/package.json:6:9
+Error parsing package.json file
+  4 |   "description": "",
+  5 |   "main": "index.js",
+> 6 |   "type""
+    |         ^
+  7 |   "scripts": {
+  8 |     "dev": "next dev",
+  9 |     "build": "next build",
+
+package.json is not parseable: invalid JSON: expected `:` at line 6 column 9
+
+
+[00:02:58.009] Browser ERROR   uncaughtError: Error: ./Desktop/CWA Feb 2026/Week 5 Lecture/package.json:6:9
+Error parsing package.json file
+  4 |   "description": "",
+  5 |   "main": "index.js",
+> 6 |   "type""
+    |         ^
+  7 |   "scripts": {
+  8 |     "dev": "next dev",
+  9 |     "build": "next build",
+
+package.json is not parseable: invalid JSON: expected `:` at line 6 column 9
+
+
+[00:02:58.475] Browser ERROR   ./Desktop/CWA Feb 2026/Week 5 Lecture/package.json:6:9
+Error parsing package.json file
+  4 |   "description": "",
+  5 |   "main": "index.js",
+> 6 |   "type""
+    |         ^
+  7 |   "scripts": {
+  8 |     "dev": "next dev",
+  9 |     "build": "next build",
+
+package.json is not parseable: invalid JSON: expected `:` at line 6 column 9
+[00:02:58.475] Browser ERROR   ./Desktop/CWA Feb 2026/Week 5 Lecture/package.json:6:9
+Error parsing package.json file
+  4 |   "description": "",
+  5 |   "main": "index.js",
+> 6 |   "type""
+    |         ^
+  7 |   "scripts": {
+  8 |     "dev": "next dev",
+  9 |     "build": "next build",
+
+package.json is not parseable: invalid JSON: expected `:` at line 6 column 9
+[00:02:58.475] Browser ERROR   ./Desktop/CWA Feb 2026/Week 5 Lecture/package.json:6:9
+Error parsing package.json file
+  4 |   "description": "",
+  5 |   "main": "index.js",
+> 6 |   "type""
+    |         ^
+  7 |   "scripts": {
+  8 |     "dev": "next dev",
+  9 |     "build": "next build",
+
+package.json is not parseable: invalid JSON: expected `:` at line 6 column 9
+[00:02:58.475] Browser ERROR   ./Desktop/CWA Feb 2026/Week 5 Lecture/package.json:6:9
+Error parsing package.json file
+  4 |   "description": "",
+  5 |   "main": "index.js",
+> 6 |   "type""
+    |         ^
+  7 |   "scripts": {
+  8 |     "dev": "next dev",
+  9 |     "build": "next build",
+
+package.json is not parseable: invalid JSON: expected `:` at line 6 column 9
+[00:02:59.465] Browser ERROR   ./Desktop/CWA Feb 2026/Week 5 Lecture/package.json:6:9
+Error parsing package.json file
+  4 |   "description": "",
+  5 |   "main": "index.js",
+> 6 |   "type""
+    |         ^
+  7 |   "scripts": {
+  8 |     "dev": "next dev",
+  9 |     "build": "next build",
+
+package.json is not parseable: invalid JSON: expected `:` at line 6 column 9
+[00:03:00.040] Server  ERROR   ⨯ ./Desktop/CWA Feb 2026/Week 5 Lecture/package.json:6:9
+Error parsing package.json file
+  4 |   "description": "",
+  5 |   "main": "index.js",
+> 6 |   "type""module",
+    |         ^
+  7 |   "scripts": {
+  8 |     "dev": "next dev",
+  9 |     "build": "next build",
+
+package.json is not parseable: invalid JSON: expected `:` at line 6 column 9
+
+
+[00:03:00.238] Server  ERROR   ⨯ ./Desktop/CWA Feb 2026/Week 5 Lecture/package.json:6:9
+Error parsing package.json file
+  4 |   "description": "",
+  5 |   "main": "index.js",
+> 6 |   "type""module",
+    |         ^
+  7 |   "scripts": {
+  8 |     "dev": "next dev",
+  9 |     "build": "next build",
+
+package.json is not parseable: invalid JSON: expected `:` at line 6 column 9
+
+
+[00:03:00.897] Browser ERROR   uncaughtError: Error: ./Desktop/CWA Feb 2026/Week 5 Lecture/package.json:6:9
+Error parsing package.json file
+  4 |   "description": "",
+  5 |   "main": "index.js",
+> 6 |   "type""module",
+    |         ^
+  7 |   "scripts": {
+  8 |     "dev": "next dev",
+  9 |     "build": "next build",
+
+package.json is not parseable: invalid JSON: expected `:` at line 6 column 9
+
+
+[00:03:01.750] Browser ERROR   ./Desktop/CWA Feb 2026/Week 5 Lecture/package.json:6:9
+Error parsing package.json file
+  4 |   "description": "",
+  5 |   "main": "index.js",
+> 6 |   "type""module",
+    |         ^
+  7 |   "scripts": {
+  8 |     "dev": "next dev",
+  9 |     "build": "next build",
+
+package.json is not parseable: invalid JSON: expected `:` at line 6 column 9
+[00:03:01.750] Browser ERROR   ./Desktop/CWA Feb 2026/Week 5 Lecture/package.json:6:9
+Error parsing package.json file
+  4 |   "description": "",
+  5 |   "main": "index.js",
+> 6 |   "type""module",
+    |         ^
+  7 |   "scripts": {
+  8 |     "dev": "next dev",
+  9 |     "build": "next build",
+
+package.json is not parseable: invalid JSON: expected `:` at line 6 column 9
+[00:03:01.750] Browser ERROR   ./Desktop/CWA Feb 2026/Week 5 Lecture/package.json:6:9
+Error parsing package.json file
+  4 |   "description": "",
+  5 |   "main": "index.js",
+> 6 |   "type""module",
+    |         ^
+  7 |   "scripts": {
+  8 |     "dev": "next dev",
+  9 |     "build": "next build",
+
+package.json is not parseable: invalid JSON: expected `:` at line 6 column 9
+[00:03:01.750] Browser ERROR   ./Desktop/CWA Feb 2026/Week 5 Lecture/package.json:6:9
+Error parsing package.json file
+  4 |   "description": "",
+  5 |   "main": "index.js",
+> 6 |   "type""module",
+    |         ^
+  7 |   "scripts": {
+  8 |     "dev": "next dev",
+  9 |     "build": "next build",
+
+package.json is not parseable: invalid JSON: expected `:` at line 6 column 9
+[00:03:01.750] Browser ERROR   ./Desktop/CWA Feb 2026/Week 5 Lecture/package.json:6:9
+Error parsing package.json file
+  4 |   "description": "",
+  5 |   "main": "index.js",
+> 6 |   "type""module",
+    |         ^
+  7 |   "scripts": {
+  8 |     "dev": "next dev",
+  9 |     "build": "next build",
+
+package.json is not parseable: invalid JSON: expected `:` at line 6 column 9
+[00:03:02.966] Server  ERROR   ⨯ ./Desktop/CWA Feb 2026/Week 5 Lecture/app/layout.js
+Specified module format (CommonJs) is not matching the module format of the source code (EcmaScript Modules)
+The CommonJs module format was specified in the package.json that is affecting this source file or by using an special extension, but Ecmascript import/export syntax is used in the source code.
+The module was automatically converted to an EcmaScript module, but that is in conflict with the specified module format. Either change the "type" field in the package.json or replace EcmaScript import/export syntax with CommonJs syntas in the source file.
+In some cases EcmaScript import/export syntax is added by an transform and isn't actually part of the source code. In these cases revisit transformation options to inject the correct syntax.
+
+
+
+./Desktop/CWA Feb 2026/Week 5 Lecture/app/page.jsx
+Specified module format (CommonJs) is not matching the module format of the source code (EcmaScript Modules)
+The CommonJs module format was specified in the package.json that is affecting this source file or by using an special extension, but Ecmascript import/export syntax is used in the source code.
+The module was automatically converted to an EcmaScript module, but that is in conflict with the specified module format. Either change the "type" field in the package.json or replace EcmaScript import/export syntax with CommonJs syntas in the source file.
+In some cases EcmaScript import/export syntax is added by an transform and isn't actually part of the source code. In these cases revisit transformation options to inject the correct syntax.
+
+
+
+./Desktop/CWA Feb 2026/Week 5 Lecture/components/NavBar.jsx
+Specified module format (CommonJs) is not matching the module format of the source code (EcmaScript Modules)
+The CommonJs module format was specified in the package.json that is affecting this source file or by using an special extension, but Ecmascript import/export syntax is used in the source code.
+The module was automatically converted to an EcmaScript module, but that is in conflict with the specified module format. Either change the "type" field in the package.json or replace EcmaScript import/export syntax with CommonJs syntas in the source file.
+In some cases EcmaScript import/export syntax is added by an transform and isn't actually part of the source code. In these cases revisit transformation options to inject the correct syntax.
+
+Import trace:
+  Server Component:
+    ./Desktop/CWA Feb 2026/Week 5 Lecture/components/NavBar.jsx
+    ./Desktop/CWA Feb 2026/Week 5 Lecture/app/layout.js
+
+
+[00:03:03.601] Browser ERROR   uncaughtError: Error: ./Desktop/CWA Feb 2026/Week 5 Lecture/app/layout.js
+Specified module format (CommonJs) is not matching the module format of the source code (EcmaScript Modules)
+The CommonJs module format was specified in the package.json that is affecting this source file or by using an special extension, but Ecmascript import/export syntax is used in the source code.
+The module was automatically converted to an EcmaScript module, but that is in conflict with the specified module format. Either change the "type" field in the package.json or replace EcmaScript import/export syntax with CommonJs syntas in the source file.
+In some cases EcmaScript import/export syntax is added by an transform and isn't actually part of the source code. In these cases revisit transformation options to inject the correct syntax.
+
+
+[00:03:04.457] Browser ERROR   ./Desktop/CWA Feb 2026/Week 5 Lecture/app/layout.js
+Specified module format (CommonJs) is not matching the module format of the source code (EcmaScript Modules)
+The CommonJs module format was specified in the package.json that is affecting this source file or by using an special extension, but Ecmascript import/export syntax is used in the source code.
+The module was automatically converted to an EcmaScript module, but that is in conflict with the specified module format. Either change the "type" field in the package.json or replace EcmaScript import/export syntax with CommonJs syntas in the source file.
+In some cases EcmaScript import/export syntax is added by an transform and isn't actually part of the source code. In these cases revisit transformation options to inject the correct syntax.
+[00:03:04.457] Browser ERROR   ./Desktop/CWA Feb 2026/Week 5 Lecture/app/page.jsx
+Specified module format (CommonJs) is not matching the module format of the source code (EcmaScript Modules)
+The CommonJs module format was specified in the package.json that is affecting this source file or by using an special extension, but Ecmascript import/export syntax is used in the source code.
+The module was automatically converted to an EcmaScript module, but that is in conflict with the specified module format. Either change the "type" field in the package.json or replace EcmaScript import/export syntax with CommonJs syntas in the source file.
+In some cases EcmaScript import/export syntax is added by an transform and isn't actually part of the source code. In these cases revisit transformation options to inject the correct syntax.
+[00:03:04.457] Browser ERROR   ./Desktop/CWA Feb 2026/Week 5 Lecture/components/NavBar.jsx
+Specified module format (CommonJs) is not matching the module format of the source code (EcmaScript Modules)
+The CommonJs module format was specified in the package.json that is affecting this source file or by using an special extension, but Ecmascript import/export syntax is used in the source code.
+The module was automatically converted to an EcmaScript module, but that is in conflict with the specified module format. Either change the "type" field in the package.json or replace EcmaScript import/export syntax with CommonJs syntas in the source file.
+In some cases EcmaScript import/export syntax is added by an transform and isn't actually part of the source code. In these cases revisit transformation options to inject the correct syntax.
+
+Import trace:
+  Server Component:
+    ./Desktop/CWA Feb 2026/Week 5 Lecture/components/NavBar.jsx
+    ./Desktop/CWA Feb 2026/Week 5 Lecture/app/layout.js
+[00:03:04.457] Browser ERROR   ./Desktop/CWA Feb 2026/Week 5 Lecture/app/layout.js
+Specified module format (CommonJs) is not matching the module format of the source code (EcmaScript Modules)
+The CommonJs module format was specified in the package.json that is affecting this source file or by using an special extension, but Ecmascript import/export syntax is used in the source code.
+The module was automatically converted to an EcmaScript module, but that is in conflict with the specified module format. Either change the "type" field in the package.json or replace EcmaScript import/export syntax with CommonJs syntas in the source file.
+In some cases EcmaScript import/export syntax is added by an transform and isn't actually part of the source code. In these cases revisit transformation options to inject the correct syntax.
+[00:03:04.457] Browser ERROR   ./Desktop/CWA Feb 2026/Week 5 Lecture/app/page.jsx
+Specified module format (CommonJs) is not matching the module format of the source code (EcmaScript Modules)
+The CommonJs module format was specified in the package.json that is affecting this source file or by using an special extension, but Ecmascript import/export syntax is used in the source code.
+The module was automatically converted to an EcmaScript module, but that is in conflict with the specified module format. Either change the "type" field in the package.json or replace EcmaScript import/export syntax with CommonJs syntas in the source file.
+In some cases EcmaScript import/export syntax is added by an transform and isn't actually part of the source code. In these cases revisit transformation options to inject the correct syntax.
+[00:03:04.457] Browser ERROR   ./Desktop/CWA Feb 2026/Week 5 Lecture/components/NavBar.jsx
+Specified module format (CommonJs) is not matching the module format of the source code (EcmaScript Modules)
+The CommonJs module format was specified in the package.json that is affecting this source file or by using an special extension, but Ecmascript import/export syntax is used in the source code.
+The module was automatically converted to an EcmaScript module, but that is in conflict with the specified module format. Either change the "type" field in the package.json or replace EcmaScript import/export syntax with CommonJs syntas in the source file.
+In some cases EcmaScript import/export syntax is added by an transform and isn't actually part of the source code. In these cases revisit transformation options to inject the correct syntax.
+
+Import trace:
+  Server Component:
+    ./Desktop/CWA Feb 2026/Week 5 Lecture/components/NavBar.jsx
+    ./Desktop/CWA Feb 2026/Week 5 Lecture/app/layout.js
+[00:03:04.457] Browser ERROR   ./Desktop/CWA Feb 2026/Week 5 Lecture/app/layout.js
+Specified module format (CommonJs) is not matching the module format of the source code (EcmaScript Modules)
+The CommonJs module format was specified in the package.json that is affecting this source file or by using an special extension, but Ecmascript import/export syntax is used in the source code.
+The module was automatically converted to an EcmaScript module, but that is in conflict with the specified module format. Either change the "type" field in the package.json or replace EcmaScript import/export syntax with CommonJs syntas in the source file.
+In some cases EcmaScript import/export syntax is added by an transform and isn't actually part of the source code. In these cases revisit transformation options to inject the correct syntax.
+[00:03:04.457] Browser ERROR   ./Desktop/CWA Feb 2026/Week 5 Lecture/app/page.jsx
+Specified module format (CommonJs) is not matching the module format of the source code (EcmaScript Modules)
+The CommonJs module format was specified in the package.json that is affecting this source file or by using an special extension, but Ecmascript import/export syntax is used in the source code.
+The module was automatically converted to an EcmaScript module, but that is in conflict with the specified module format. Either change the "type" field in the package.json or replace EcmaScript import/export syntax with CommonJs syntas in the source file.
+In some cases EcmaScript import/export syntax is added by an transform and isn't actually part of the source code. In these cases revisit transformation options to inject the correct syntax.
+[00:03:04.457] Browser ERROR   ./Desktop/CWA Feb 2026/Week 5 Lecture/components/NavBar.jsx
+Specified module format (CommonJs) is not matching the module format of the source code (EcmaScript Modules)
+The CommonJs module format was specified in the package.json that is affecting this source file or by using an special extension, but Ecmascript import/export syntax is used in the source code.
+The module was automatically converted to an EcmaScript module, but that is in conflict with the specified module format. Either change the "type" field in the package.json or replace EcmaScript import/export syntax with CommonJs syntas in the source file.
+In some cases EcmaScript import/export syntax is added by an transform and isn't actually part of the source code. In these cases revisit transformation options to inject the correct syntax.
+
+Import trace:
+  Server Component:
+    ./Desktop/CWA Feb 2026/Week 5 Lecture/components/NavBar.jsx
+    ./Desktop/CWA Feb 2026/Week 5 Lecture/app/layout.js
+[00:03:14.476] Browser ERROR   unhandledRejection: i: Failed to connect to MetaMask
+[00:03:19.283] Server  LOG     ✓ Compiled in 21ms
+[00:03:22.248] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:03:22.549] Browser ERROR   A tree hydrated but some attributes of the server rendered HTML didn't match the client properties. This won't be patched up. This can happen if a SSR-ed Client Component used:
+
+- A server/client branch `if (typeof window !== 'undefined')`.
+- Variable input such as `Date.now()` or `Math.random()` which changes each time it's called.
+- Date formatting in a user's locale which doesn't match the server.
+- External changing data without sending a snapshot of it along with the HTML.
+- Invalid HTML tag nesting.
+
+It can also happen if the client has a browser extension installed which messes with the HTML before React loaded.
+
+%s%s https://react.dev/link/hydration-mismatch 
+
+  ...
+    <HotReload globalError={[...]} webSocket={WebSocket} staticIndicatorState={{pathname:null, ...}}>
+      <AppDevOverlayErrorBoundary globalError={[...]}>
+        <ReplaySsrOnlyErrors>
+        <DevRootHTTPAccessFallbackBoundary>
+          <HTTPAccessFallbackBoundary notFound={<NotAllowedRootHTTPFallbackError>}>
+            <HTTPAccessFallbackErrorBoundary pathname="/" notFound={<NotAllowedRootHTTPFallbackError>} ...>
+              <RedirectBoundary>
+                <RedirectErrorBoundary router={{...}}>
+                  <Head>
+                  <__next_root_layout_boundary__>
+                    <SegmentViewNode type="layout" pagePath="/Desktop/C...">
+                      <SegmentTrieNode>
+                      <script>
+                      <script>
+                      <RootLayout>
+                        <html
+                          lang="en"
+-                         suppresshydrationwarning="true"
+-                         data-qb-installed="true"
+                        >
+                  ...
+
+[00:03:31.341] Browser ERROR   unhandledRejection: i: Failed to connect to MetaMask
+[00:04:12.858] Server  LOG     ✓ Compiled in 1198ms
+[00:04:15.499] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:04:26.468] Browser ERROR   unhandledRejection: i: Failed to connect to MetaMask
+[00:16:43.001] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:16:52.455] Browser ERROR   unhandledRejection: i: Failed to connect to MetaMask

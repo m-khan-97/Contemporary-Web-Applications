@@ -1,0 +1,22 @@
+{
+  "devFiles": [],
+  "ampDevFiles": [],
+  "polyfillFiles": [
+    "static/chunks/243ab_next_dist_build_polyfills_polyfill-nomodule.js"
+  ],
+  "lowPriorityFiles": [],
+  "rootMainFiles": [
+    "static/chunks/[turbopack]_browser_dev_hmr-client_hmr-client_ts_deeede42._.js",
+    "static/chunks/243ab_next_dist_compiled_react-dom_872383b7._.js",
+    "static/chunks/243ab_next_dist_compiled_react-server-dom-turbopack_62bb4f94._.js",
+    "static/chunks/243ab_next_dist_compiled_next-devtools_index_7dcd2f65.js",
+    "static/chunks/243ab_next_dist_compiled_99f9c231._.js",
+    "static/chunks/243ab_next_dist_client_d72e90e7._.js",
+    "static/chunks/243ab_next_dist_4394f5c6._.js",
+    "static/chunks/243ab_@swc_helpers_cjs_01383077._.js",
+    "static/chunks/Desktop_CWA Feb 2026_Week 5 Lecture_a0ff3932._.js",
+    "static/chunks/turbopack-Desktop_CWA Feb 2026_Week 5 Lecture_c6b9c767._.js"
+  ],
+  "pages": {},
+  "ampFirstPages": []
+}
