@@ -13,7 +13,7 @@ export default function RootLayout({ children }) {
                 <nav style={{textAlign: "center", marginBottom: "20px "}}>
                     <Link href="/">Home</Link>
                     <Link href="/about">About</Link>
-                    <Link href="/search/Adele">Search Adele</Link>
+                    <Link href="/search">Search</Link>
                 </nav>
                 {children}
             </body>
