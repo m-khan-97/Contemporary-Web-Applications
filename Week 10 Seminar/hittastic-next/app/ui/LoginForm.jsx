@@ -1,7 +1,8 @@
 "use client";
 
 import { useState } from "react";
-
+import { signInWithEmailAndPassword } from "firebase/auth";
+import { auth } from "../../lib/firebase";
 import { useRouter } from "next/navigation";
 
 export default function LoginForm() {
@@ -11,7 +12,17 @@ export default function LoginForm() {
   const [pw, setPw] = useState("");
   const [status, setStatus] = useState("");
 
-//   To do
+async function handleLogin(e) {
+  e.preventDefault();
+
+  try {
+    await signInWithEmailAndPassword(auth, email, pw);
+    setStatus("Logged in!");
+    router.push("/");
+  } catch (err) {
+    setStatus("Error: " + err.message);
+  }
+}
 
   return (
     <form onSubmit={handleLogin}>

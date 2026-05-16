@@ -1,6 +1,8 @@
 "use client";
 
 import { useState } from "react";
+import { auth } from "../../lib/firebase";
+import { createUserWithEmailAndPassword, updateProfile } from "firebase/auth";
 
 
 export default function SignupForm() {
@@ -9,7 +11,21 @@ export default function SignupForm() {
   const [pw, setPw] = useState("");
   const [status, setStatus] = useState("");
 
-//   To do
+  async function handleSignup(e) {
+    e.preventDefault();
+
+    try {
+      const userCred = await createUserWithEmailAndPassword(auth, email, pw);
+      await updateProfile(userCred.user, {displayName: name});
+
+      setStatus("Account created! You can now login");
+      setEmail("");
+      setPw("");
+      setName("");
+    } catch (err) {
+      setStatus("Error: " + err.message)
+    }
+  }
 
   return (
     <form onSubmit={handleSignup}>

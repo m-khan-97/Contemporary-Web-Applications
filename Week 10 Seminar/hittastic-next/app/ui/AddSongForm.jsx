@@ -2,6 +2,8 @@
 "use client";
 
 import { useState } from "react";
+import { db } from "../../lib/firebase";
+import { collection, addDoc } from "firebase/firestore";
 
 
 export default function AddSongForm() {
@@ -10,9 +12,31 @@ export default function AddSongForm() {
   const [year, setYear] = useState("");
   const [status, setStatus] = useState("");
 
-  
+async function handleSubmit(e) {
 
-    // To do
+  e.preventDefault();
+
+  if(!title ||!artist ||!year) {
+    setStatus("Please fill in all fields");
+    return;
+  }
+
+  try {
+    const docRef = await addDoc(collection(db, "songs"), {
+      title,
+      artist,
+      year: Number(year),
+    });
+
+    setStatus(`Song added! ID = ${docRef.id}`);
+    setTitle("");
+    setArtist("");
+    setYear("");
+  } catch (err) {
+    console.error(err);
+    setStatus("Error adding song: " + err.message);
+  }
+}
 
   return (
     <form onSubmit={handleSubmit}>
