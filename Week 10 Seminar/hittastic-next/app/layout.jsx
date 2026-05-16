@@ -1,5 +1,7 @@
 // app/layout.jsx
 import "./globals.css";
+import LogoutButton from "./ui/LogoutButton";
+import AuthStatus from "./ui/AuthStatus";
 
 
 export const metadata = {
@@ -29,6 +31,8 @@ export default function RootLayout({ children }) {
             <a href="/signup">Signup</a>
 
   {/* Shows "Logged in as ..." & Logout button */}
+            <AuthStatus />
+            <LogoutButton />
         
 </nav>
           <main className="ht-main">{children}</main>
